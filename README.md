@@ -19,22 +19,6 @@ I'm a backend developer passionate about scalable systems, AI agents, and graph-
 ---
 
 ## 🧪 Personal Projects
-
-### 🧠 [TextGCN-Based Sentence Classifier] *(Submitted to AAAI 2025)*
-- Extended the original TextGCN framework with additional graph construction strategies for improved text classification
-- Focused on leveraging structure-aware signals and domain-driven edge heuristics
-- Evaluated across multiple benchmark datasets with strong empirical results
-- Paper currently under review at AAAI 2025
-
-### 🧠 SBERT-contrastive-loss
-- Loss Function Exploration: Implemented and compared four contrastive loss variants:
-- Cosine similarity loss
-- Supervised contrastive loss (custom and library-based versions)
-- Contrastive loss with hard negatives
-- Dataset Evaluation: Tested on benchmark datasets including MR, R8, and R52.
-- Optimization: Used Optuna (Bayesian hyperparameter search) to tune learning rates, batch size, and other hyperparameters.
-- 🔗 [Repo](https://github.com/Rajarshi-Misra/SBERT-contrastive-loss)
-
 ### 🤖 Bitcoin Price Chatbot with LLMs
 - Built a chatbot using **TogetherAI + LLaMA 8B** for real-time BTC price queries
 - Implemented multilingual support with consistent English output
